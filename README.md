@@ -1,1 +1,1 @@
-# githu-actions-poc
+# github-actions-poc
